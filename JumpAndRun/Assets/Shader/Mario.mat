@@ -47,7 +47,7 @@ Material:
     m_Ints: []
     m_Floats:
     - _Edge: 0.1
-    - _Fade: 0.504
+    - _Fade: 0.632
     m_Colors:
     - _Burn: {r: 95.87451, g: 4.5176473, b: 20.580393, a: 0}
   m_BuildTextureStacks: []
